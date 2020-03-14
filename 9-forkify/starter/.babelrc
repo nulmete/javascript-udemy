@@ -1,0 +1,13 @@
+{
+    "presets": [
+        // "env" = environment (installed as a plugin before)
+        ["@babel/env", {
+            "targets": {
+                "browsers": [
+                    "last 5 versions",
+                    "ie >= 8"
+                ]
+            } 
+        }]
+    ]
+}

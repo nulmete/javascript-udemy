@@ -1,0 +1,15 @@
+// =============================================================================
+// Primitive data types
+// =============================================================================
+
+Number, string, boolean, undefined, null.
+
+undefined: data type of a variable that doesn't have a value yet.
+null: non-existent.
+
+// =============================================================================
+// Objects
+// =============================================================================
+
+Property: attribute of a project, with a corresponding value.
+Method: function inside an object property.
